@@ -13,7 +13,7 @@ PHP is old just like ~~Hooli~~. It's time for a new lightweight applicatication 
 
 ## Todo
 *Back-end
-*In-built video layer with lossless compression
++In-built video layer with lossless compression
 
 ## Thanks
 Pied Piper's User Interface is inspired by [Lufi](http:/demo.lufi.io/) File Hosting Software. 
