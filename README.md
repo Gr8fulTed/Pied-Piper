@@ -1,5 +1,5 @@
 # Pied-Piper
-![alt text](https://i.imgur.com/gggBVJN.png "Pied Piper Logo")
+[logo]: http://www.feistees.com/wp-content/uploads/2014/04/pdppr.jpg "Pied Piper"
 
 Building Pied Piper. The file-sharing storage platform for a post-storage platform era.
 
