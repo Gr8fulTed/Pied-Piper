@@ -1,0 +1,99 @@
+<html>
+    <html>
+    <head>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Pied Piper</title>
+        
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <link rel="icon" type="image/png" href="img/favicon.png">
+        <link rel="icon" sizes="128x128" href="https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_98,w_98/v1399404021/jszf5otv3hpaeakvub8z.png">
+        <link rel="icon" sizes="196x196" href="https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_98,w_98/v1399404021/jszf5otv3hpaeakvub8z.png">
+        <link rel="apple-touch-icon" href="https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_98,w_98/v1399404021/jszf5otv3hpaeakvub8z.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_98,w_98/v1399404021/jszf5otv3hpaeakvub8z.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_98,w_98/v1399404021/jszf5otv3hpaeakvub8z.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_98,w_98/v1399404021/jszf5otv3hpaeakvub8z.png">
+        <link rel="apple-touch-icon-precomposed" sizes="128x128" href="https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_98,w_98/v1399404021/jszf5otv3hpaeakvub8z.png">
+        <link href="./Pied Piper_files/materialize.min.css" rel="stylesheet">
+        <link href="./Pied Piper_files/lufi.css" rel="stylesheet">
+        <script>//<![CDATA[
+
+            function confirmExit() {
+                console.log(i18n.confirmExit);
+                return i18n.confirmExit;
+            }
+
+//]]></script>        
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <nav class="green">
+            <div class="navbar-brand">
+                <a href="index.html" class="brand-logo">&nbsp;<img src="http://gjrdiesel.github.io/piedpiper-beta/piedpiper.png" alt="" width="100px"></a>
+                <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                    <li><a href="index.html">Upload files</a></li>
+                    <li class="active"><a href="uploaded.html">My files</a></li>
+                    <li><a href="about.html">About</a></li>
+                </ul>
+                <ul id="mobile-demo" class="side-nav">
+                    <li><a href="index.html">Upload files</a></li>
+                    <li class="active"><a href="uploaded.html">My files</a></li>
+                    <li><a href="about.html">About</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="container">
+            <script src="/js/jquery-2.1.1.min.js"></script>
+            <script src="/js/lufi-common.js"></script>
+            
+<h2>My files</h2>
+<hr>
+
+
+<p>
+    Only the files sent with this browser will be listed here. This list is stored in localStorage: if you delete your localStorage data, you&#39;ll lose this list.<br>
+    Rows in red mean that the files have expired and are no longer available.
+</p>
+<div>
+    <a href="#" onclick="exportStorage();" class="btn left-mg green">Export localStorage data</a>
+    <a href="#" onclick="purgeExpired();" class="btn left-mg green">Purge expired files from localStorage</a>
+    <a href="#" onclick="$('#import').click();" class="btn left-mg green">Import localStorage data</a>
+    <span class="file-field input-field">
+        <input type="file" id="import" onchange="importStorage(this.files)">
+    </span>
+</div>
+
+<div>
+    <table class="responsive-table striped">
+        <thead>
+            <tr>
+                <th class="center-align">File name</th>
+                <th class="center-align">Download link</th>
+                <th class="center-align">Counter</th>
+                <th class="center-align">Delete at first download?</th>
+                <th class="center-align">Uploaded at</th>
+                <th class="center-align">Expires at</th>
+                <th class="center-align">Deletion link</th>
+            </tr>
+        </thead>
+        <tbody id="myfiles">
+        </tbody>
+    </table>
+</div>
+
+</script><script src="/js/lufi-files.js"></script>
+<script src="/js/moment-with-locales.min.js"></script>
+
+        </div>
+            <script src="/js/materialize.js"></script>
+            <script>//<![CDATA[
+
+                $(document).ready(function() {
+                    $(".button-collapse").sideNav();
+                });
+
+//]]></script>    </body>
+</html>
