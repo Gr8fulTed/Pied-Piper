@@ -1,5 +1,5 @@
 # Pied-Piper
-[logo]: http://www.feistees.com/wp-content/uploads/2014/04/pdppr.jpg "Pied Piper"
+![alt text][logo]: http://www.feistees.com/wp-content/uploads/2014/04/pdppr.jpg "Pied Piper"
 
 Building Pied Piper. The file-sharing storage platform for a post-storage platform era.
 
@@ -12,8 +12,8 @@ Using Peer-to-Peer technology your file is instantly avaliable everywhere and no
 PHP is old just like ~~Hooli~~. It's time for a new lightweight applicatication that fulfill's your file sharing needs, in your browser.
 
 ## Todo
-..*Back-end
-..*In-built video layer with lossless compression
+*Back-end
+*In-built video layer with lossless compression
 
 ## Thanks
 Pied Piper's User Interface is inspired by [Lufi](http:/demo.lufi.io/) File Hosting Software. 
