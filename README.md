@@ -1,5 +1,5 @@
 # Pied-Piper
-![alt text]https://i.imgur.com/gggBVJN.png "Pied Piper Logo")
+![alt text](https://i.imgur.com/gggBVJN.png "Pied Piper Logo")
 
 Building Pied Piper. The file-sharing storage platform for a post-storage platform era.
 
