@@ -25,7 +25,6 @@ It's time for a new lightweight applicatication that fulfill's your file sharing
 +In-built video layer with lossless compression
 
 ## Thanks
-Pied Piper's User Interface is inspired by [Lufi](http:/demo.lufi.io/) File Hosting Software. 
 
 
 Piper Piper is a _fictional_ company based on _HBO's_ [Silicon Valley](http://www.hbo.com/silicon-valley). Piped Piper and Silicon Valley are copyrighted by HBO. All logos, informations and the name Pied Piper are used in a fictional manner.
