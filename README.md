@@ -31,8 +31,7 @@ Piper Piper is a _fictional_ company based on _HBO's_ [Silicon Valley](http://ww
 
 
 Pied Piper uses:
-* [Materialize](http://materializecss.com/) framework to look not too ugly
-* [jQuery](https://jquery.com)
-* [Moment.js](http://momentjs.com/) for displaying real dates instead of unix timestamps.
-* [Filesize.js](http://filesizejs.com/) for displaying file sizes
-
+* [Materialize](http://materializecss.com/) For the really nice framework.
+* [jQuery](https://jquery.com) For j.query stuff
+* [Moment.js](http://momentjs.com/) Dates for real.
+* [Filesize.js](http://filesizejs.com/) Look, the name's pretty explanatory.
