@@ -12,7 +12,9 @@ Pied Piper is for sharing, simply upload your file and share with your friends o
 Using Peer-to-Peer technology your file is instantly avaliable everywhere and not everywhere at the same time.
 
 ## Powered by Javascript
-PHP is old just like ~~Hooli~~. It's time for a new lightweight applicatication that fulfill's your file sharing needs, in your browser.
+PHP is old just like ~~Hooli~~. 
+
+It's time for a new lightweight applicatication that fulfill's your file sharing needs, in your browser.
 
 ## Todo
 
@@ -24,7 +26,11 @@ PHP is old just like ~~Hooli~~. It's time for a new lightweight applicatication 
 
 ## Thanks
 Pied Piper's User Interface is inspired by [Lufi](http:/demo.lufi.io/) File Hosting Software. 
+
+
 Piper Piper is a _fictional_ company based on _HBO's_ [Silicon Valley](http://www.hbo.com/silicon-valley). Piped Piper and Silicon Valley are copyrighted by HBO. All logos, informations and the name Pied Piper are used in a fictional manner.
+
+
 Pied Piper uses:
 * [Materialize](http://materializecss.com/) framework to look not too ugly
 * [jQuery](https://jquery.com)
