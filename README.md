@@ -27,7 +27,7 @@ It's time for a new lightweight applicatication that fulfill's your file sharing
 ## Thanks
 
 
-Piper Piper is a _fictional_ company based on _HBO's_ [Silicon Valley](http://www.hbo.com/silicon-valley). Piped Piper and Silicon Valley are copyrighted by HBO. All logos, informations and the name Pied Piper are used in a fictional manner.
+Piper Piper is a _fictional_ company based on _HBO's_ [Silicon Valley](http://www.hbo.com/silicon-valley). Piped Piper and Silicon Valley are copyrighted by HBO. All logos, informations and the name Pied Piper are used in a satirical manner.
 
 
 Pied Piper uses:
