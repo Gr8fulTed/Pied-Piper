@@ -4,7 +4,7 @@
 Building Pied Piper. The file-sharing storage platform for a post-storage platform era.
 
 #Beta
-[Pied Piper Beta](http:/piedpiper.bitballoon.com/)
+[Pied Piper Beta](piedpiperbeta.bitballoon.com)
 
 ## File Sharing Made Simple
 Pied Piper is tables.
@@ -19,9 +19,11 @@ It's time for a new lightweight application that fulfills your file sharing need
 This means Pied Piper is fast, easy and flexible right from the start.
 
 ## Todo
-+Back-end
++Back-end Using Dropzone.js
 
-+In-built video player with lossless compression
+
+
++In-built video player with lossless compression using video.js
 
 ## Thanks
 
