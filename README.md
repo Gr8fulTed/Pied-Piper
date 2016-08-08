@@ -21,9 +21,9 @@ This means Pied Piper is fast, easy and flexible right from the start.
 ## Todo
 +Back-end Using Dropzone.js
 
-
-
 +In-built video player with lossless compression using video.js
+
++ Intergrate Restive.js for a responsive site and streamline use for mobile users.
 
 ## Thanks
 
