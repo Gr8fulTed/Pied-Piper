@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pied-Piper
 ![alt text](http://www.feistees.com/wp-content/uploads/2014/04/pdppr.jpg "Pied Piper")
 
