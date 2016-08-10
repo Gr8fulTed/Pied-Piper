@@ -1,3 +1,4 @@
+<<<<<<< HEAD:css/pp.css
 body {
     margin: 0;
     font-family: 'Lato', sans-serif;
@@ -97,3 +98,104 @@ a.classic:focus {
 .hiddendiv.common {
     min-height: 170px;
 }
+=======
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+#files {
+    border: 2px dashed #BBB;
+    border-radius: 5px;
+    padding: 25px 25px 41px 25px;
+    text-align: center;
+    color: #888;
+}
+.navbar-brand img {
+    margin-top: -10px;
+}
+.navbar-brand>img {
+    display: block;
+}
+#files label {
+    background-color: #5A7BC2;
+    padding: 6px 0;
+    color: #FFF;
+    font-weight: bold;
+    margin: 20px auto;
+    width: 100%;
+}
+#files label span {
+    cursor: pointer;
+}
+#files input {
+    display:none;
+}
+.progress-info {
+    text-shadow: initial;
+    font-weight: bold;
+}
+#results {
+    display: none;
+}
+a.classic,
+a.classic:hover,
+a.classic:focus {
+    color: #337AB7;
+}
+.left-mg {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+@-moz-document url-prefix() {
+    fieldset { display: table-cell; }
+}
+#render-image {
+    max-width: 100%;
+    max-height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.input-field .big-prefix {
+    width: 6rem;
+}
+.input-field .big-prefix ~ input,
+.input-field .big-prefix ~ textarea,
+.input-field .big-prefix ~ label,
+.input-field .big-prefix ~ div.select-wrapper  {
+    margin-left: 6rem;
+    width: 92%;
+    width: calc(100% - 6rem); }
+}
+@media only screen and (max-width : 992px) {
+    .input-field .big-prefix ~ input {
+        width: 82%;
+        width: calc(100% - 6rem);
+    }
+}
+@media only screen and (max-width : 600px) {
+    .input-field .big-prefix ~ input {
+        width: 60%;
+        width: calc(100% - 6rem);
+    }
+}
+.file-field .btn.left-mg {
+    height: 36px;
+    line-height: 36px;
+}
+.textarea-hidden {
+    position: 'fixed';
+    top: 0;
+    left: 0;
+    width: '2em';
+    height: '2em';
+    padding: 0;
+    border: 'none';
+    outline: 'none';
+    boxShadow: 'none';
+    background: 'transparent';
+}
+.hiddendiv.common {
+    min-height: 170px;
+}
+>>>>>>> origin/master:css/pp.css

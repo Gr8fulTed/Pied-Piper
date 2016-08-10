@@ -247,7 +247,11 @@ a:focus {
 
 .featured-list__cap {
 	font-weight: 300;
+<<<<<<< HEAD
 	display: inline-flex;;
+=======
+	display:block;
+>>>>>>> origin/master
 	color: #E3B23C;
 	padding: 0 0.5em;
 	line-height: 1.5;
