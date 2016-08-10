@@ -4,7 +4,7 @@
 Building Pied Piper. The file-sharing storage platform for a post-storage platform era.
 
 #Beta
-[Pied Piper Beta](http:/piedpiper.bitballoon.com/)
+[Pied Piper Beta](http:/piedpiperbeta.bitballoon.com/)
 
 ## File Sharing Made Simple
 Pied Piper is tables.
