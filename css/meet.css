@@ -538,50 +538,6 @@ a:focus {
 	.codrops-demos {
 		margin: 0 0 0 0.5em;
 		width: 100%;
-	}
-	.codrops-demos::after {
-		content: 'Tap anywhere to turn on sound';
-		display: inline-block;
-		margin: 1em 0 0 0;
-		font-weight: bold;
-		color: #84ff84;
-	}
-	.landing-header__title {
-		font-size: 2.5em;
-	}
-	.landing-layout--open .landing-header__title {
-		-webkit-transform: translate3d(0, -40vh, 0);
-		transform: translate3d(0, -40vh, 0);
-	}
-	.landing-header__tagline {
-		font-size: 0.85em;
-	}
-	.featured-list {
-		width: 80%;
-		min-width: 0;
-		max-width: none;
-		margin-top: 17.5vh;
-	}
-	.featured-list__item {
-		width: 50%;
-	}
-	.featured-list__img {
-		width: 40px;
-		max-width: none;
-		min-width: 0;
-	}
-	.featured-list__title {
-		font-size: 0.85em;
-	}
-	.button {
-		font-size: 0.85em;
-	}
-	.codrops-header {
-		font-size: 0.75em;
-	}
-	.codrops-header__title {
-		padding: 0;
-	}
 	.loader::after {
 		font-size: 1em;
 	}
